@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/kamedatatsuki/Desktop/プログラミング練習/AtCorder/ABC412/A"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003BD4, symSize: 0x1D4 }
+  - { offsetInCU: 0x463D, offset: 0x463D, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x200, symBinAddr: 0x100003DD4, symSize: 0x58 }
+  - { offsetInCU: 0x467D, offset: 0x467D, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x2DC, symBinAddr: 0x100003EB0, symSize: 0x2C }
+  - { offsetInCU: 0x70E5, offset: 0x70E5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003BD4, symSize: 0x1D4 }
+  - { offsetInCU: 0x7236, offset: 0x7236, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x1D4, symBinAddr: 0x100003DA8, symSize: 0x2C }
+  - { offsetInCU: 0x7268, offset: 0x7268, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x258, symBinAddr: 0x100003E2C, symSize: 0x84 }
+  - { offsetInCU: 0x72D4, offset: 0x72D4, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x308, symBinAddr: 0x100003EDC, symSize: 0x38 }
+...

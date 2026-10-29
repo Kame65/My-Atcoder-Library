@@ -1,0 +1,107 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <unordered_map>
+#include <numeric>
+#include <queue>
+#include <climits>
+#include <functional>
+
+using namespace std;
+using ll = long long int;
+using vl = vector<ll>;
+using vvl = vector<vl>;
+using vc = vector<char>;
+using vvc = vector<vc>;
+using vvvl  = vector<vvl>;
+
+template <typename T>
+struct SegTree{
+    ll n;
+    vector<T> data;
+    T initialElement;
+    function<T(T, T)> f;
+    // 初期化
+    //2 * nの大きさのdataをinicialElementで埋める(INT_MAXなど)
+    // fは比較関数
+    SegTree(ll n_, T initialElement_, function<T(T, T)> f_){
+        this->n = 1;
+        while(this->n < n_){
+            this->n *= 2;
+        } 
+        this->initialElement = initialElement_;
+        this->f = f_;
+        data.assign(2 * this->n, this->initialElement);
+    }
+    SegTree(vector<T> vecT, T initialElement_, function<T(T, T)> f_){
+        this->n = 1;
+        while(this->n < vecT.size()){
+            this->n *= 2;
+        } 
+        this->initialElement = initialElement_;
+        this->f = f_;
+        data.assign(2 * this->n, this->initialElement);
+        for(ll i = 0; i < vecT.size(); i ++){
+            update(i, vecT[i]);
+        }
+    }
+
+    void update(ll i, T x){
+        i += n;
+        data[i] = x;
+        while(i > 1){
+            i >>= 1;// i /= 2と同じ
+            // i << 1 | 0は2i, i << 1 | 1は2i + 1
+            data[i] = f(data[i << 1 | 0], data[i << 1 | 1]);
+
+        }
+    }
+    // T innerQuery(int l, int r, int i, int il, int ir);
+    T query(ll l, ll r){
+        return innerQuery(l, r, 1, 0, n);
+    }
+
+    vector<T> getVector(){
+        vector<T> res;
+        for(ll i = 0; i < n; i ++){
+            res.push_back(data[n + i]);
+        }
+        return res;
+    }
+
+
+    private:
+    T innerQuery(int l, int r, int i, int il, int ir){
+        if(r <= il || ir <= l) return initialElement;
+        if(l <= il &&  ir <= r) return data[i];
+        ll m = (il + ir) / 2;
+        return f(innerQuery(l, r, i << 1 | 0, il, m),
+                 innerQuery(l, r, i << 1 | 1, m, ir));
+        
+    }
+
+
+    
+
+
+};
+
+pair<ll, ll> func(pair<ll, ll>a, pair<ll, ll> b){
+    return min(a, b);
+}
+
+pair<ll, ll> funcMin(pair<ll, ll>a, pair<ll, ll> b){
+    return min(a, b);
+}
+
+pair<ll, ll> funcMax(pair<ll, ll>a, pair<ll, ll>b){
+    return max(a, b);
+}
+
+int main(){
+    ll N, M;
+    cin >> N >> M;
+    SegTree<pair<ll, ll>> segTMin(N, make_pair(LLONG_MAX, -1), funcMin);
+    SegTree<pair<ll, ll>> segTMax(N, make_pair(LLONG_MIN, -1), funcMax);
+
+}

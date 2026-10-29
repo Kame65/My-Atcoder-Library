@@ -1,0 +1,2846 @@
+not far
+1 3 0 L 1
+score = 0
+not far
+1 3 0 D 1
+score = 0
+not far
+2 4 0 L 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+1 3 0 L 1
+not far
+2 4 0 L 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+2 4 0 L 1
+not far
+1 2 0 L 1
+score = 0
+not far
+1 2 0 D 1
+score = 0
+not far
+2 3 0 L 1
+score = 0
+not far
+2 3 0 D 1
+score = 10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+2 3 0 D 1
+not far
+1 2 0 L 1
+score = 0
+not far
+1 2 0 D 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+1 2 0 D 1
+not far
+2 2 0 L 1
+score = 0
+not far
+2 2 0 D 1
+score = 0
+far: 
+3 3 1 L 1
+score = -10000
+far: 
+3 3 1 L 2
+score = -10000
+not far
+3 3 0 L 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+2 2 0 L 1
+far: 
+3 3 1 L 1
+score = -10000
+far: 
+3 3 1 L 2
+score = -10000
+not far
+3 3 0 L 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+3 3 0 L 1
+not far
+2 1 0 L 1
+score = 0
+not far
+2 1 0 D 1
+score = 0
+not far
+3 2 0 L 1
+score = 0
+not far
+3 2 0 D 1
+score = 0
+far: 
+3 2 1 L 1
+score = -10000
+far: 
+3 2 1 L 2
+score = -10000
+far: 
+3 2 1 D 1
+score = -10000
+far: 
+3 2 1 D 2
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+2 1 0 D 1
+not far
+3 2 0 L 1
+score = 10000
+not far
+3 2 0 D 1
+score = 0
+far: 
+3 2 1 L 1
+score = 0
+far: 
+3 2 1 L 2
+score = -10000
+far: 
+3 2 1 D 1
+score = -10000
+far: 
+3 2 1 D 2
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+3 2 0 L 1
+not far
+3 1 0 L 1
+score = 0
+not far
+3 1 0 D 1
+score = 0
+far: 
+3 1 2 L 1
+score = -10000
+far: 
+3 1 2 D 1
+score = -10000
+far: 
+3 1 2 D 2
+score = -10000
+far: 
+3 1 2 D 3
+score = -10000
+far: 
+3 1 1 L 1
+score = -10000
+far: 
+3 1 1 D 1
+score = -10000
+far: 
+3 1 1 D 2
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+3 1 0 L 1
+far: 
+3 0 2 D 1
+score = 0
+far: 
+3 0 2 D 2
+score = -10000
+far: 
+3 0 2 D 3
+score = -10000
+not far
+3 0 0 D 1
+score = 10000
+far: 
+3 0 1 D 1
+score = 0
+far: 
+3 0 1 D 2
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+3 0 0 D 1
+far: 
+4 0 1 D 1
+score = -10000
+far: 
+4 0 1 D 2
+score = -10000
+far: 
+4 0 3 D 1
+score = -10000
+far: 
+4 0 3 D 2
+score = -10000
+far: 
+4 0 3 D 3
+score = -10000
+far: 
+4 0 3 D 4
+score = -10000
+far: 
+4 0 2 D 1
+score = -10000
+far: 
+4 0 2 D 2
+score = -10000
+far: 
+4 0 2 D 3
+score = -10000
+not far
+4 0 0 D 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+4 0 0 D 1
+far: 
+5 0 3 D 1
+score = -10000
+far: 
+5 0 3 D 2
+score = -10000
+far: 
+5 0 3 D 3
+score = -10000
+far: 
+5 0 3 D 4
+score = -10000
+not far
+5 0 1 D 1
+score = 0
+not far
+5 0 1 D 2
+score = 0
+far: 
+5 0 2 D 1
+score = -10000
+far: 
+5 0 2 D 2
+score = -10000
+far: 
+5 0 2 D 3
+score = -10000
+far: 
+5 0 4 D 1
+score = -10000
+far: 
+5 0 4 D 2
+score = -10000
+far: 
+5 0 4 D 3
+score = -10000
+far: 
+5 0 4 D 4
+score = -10000
+far: 
+5 0 4 D 5
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+8 7 0 R 1
+far: 
+5 0 3 D 1
+score = -10000
+far: 
+5 0 3 D 2
+score = -10000
+far: 
+5 0 3 D 3
+score = -10000
+far: 
+5 0 3 D 4
+score = -10000
+not far
+5 0 1 D 1
+score = 0
+not far
+5 0 1 D 2
+score = 0
+far: 
+5 0 2 D 1
+score = -10000
+far: 
+5 0 2 D 2
+score = -10000
+far: 
+5 0 2 D 3
+score = -10000
+far: 
+5 0 4 D 1
+score = -10000
+far: 
+5 0 4 D 2
+score = -10000
+far: 
+5 0 4 D 3
+score = -10000
+far: 
+5 0 4 D 4
+score = -10000
+far: 
+5 0 4 D 5
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+8 8 0 D 1
+score = 10000
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+choiced
+8 8 0 D 1
+far: 
+5 0 3 D 1
+score = -10000
+far: 
+5 0 3 D 2
+score = -10000
+far: 
+5 0 3 D 3
+score = -10000
+far: 
+5 0 3 D 4
+score = -10000
+not far
+5 0 1 D 1
+score = 0
+not far
+5 0 1 D 2
+score = 0
+far: 
+5 0 2 D 1
+score = -10000
+far: 
+5 0 2 D 2
+score = -10000
+far: 
+5 0 2 D 3
+score = -10000
+far: 
+5 0 4 D 1
+score = -10000
+far: 
+5 0 4 D 2
+score = -10000
+far: 
+5 0 4 D 3
+score = -10000
+far: 
+5 0 4 D 4
+score = -10000
+far: 
+5 0 4 D 5
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+far: 
+9 8 1 R 1
+score = -10000
+far: 
+9 8 1 R 2
+score = -10000
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+not far
+9 8 0 R 1
+score = 0
+choiced
+5 0 1 D 2
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 0 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+far: 
+9 8 1 R 1
+score = -10000
+far: 
+9 8 1 R 2
+score = -10000
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+not far
+9 8 0 R 1
+score = 0
+choiced
+8 0 0 U 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+7 0 4 U 1
+score = 0
+not far
+7 0 4 U 2
+score = 10000
+not far
+7 0 4 U 3
+score = 0
+not far
+7 0 4 U 4
+score = 0
+not far
+7 0 4 U 5
+score = 0
+not far
+7 0 4 R 1
+score = 10000
+not far
+8 3 0 D 1
+score = 0
+far: 
+9 8 1 R 1
+score = -10000
+far: 
+9 8 1 R 2
+score = -10000
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+not far
+9 8 0 R 1
+score = 0
+choiced
+7 0 4 U 2
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+7 4 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+far: 
+9 8 1 R 1
+score = -10000
+far: 
+9 8 1 R 2
+score = -10000
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+not far
+9 8 0 R 1
+score = 0
+choiced
+7 4 0 U 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+far: 
+9 8 1 R 1
+score = -10000
+far: 
+9 8 1 R 2
+score = -10000
+not far
+9 0 0 R 1
+score = 0
+not far
+9 0 0 D 1
+score = 0
+not far
+9 8 0 R 1
+score = 0
+choiced
+9 0 0 R 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+far: 
+9 8 1 R 1
+score = -10000
+far: 
+9 8 1 R 2
+score = -10000
+not far
+9 8 0 R 1
+score = 0
+choiced
+9 8 0 R 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+9 9 0 R 1
+score = 0
+far: 
+9 9 1 R 1
+score = -10000
+far: 
+9 9 1 R 2
+score = -10000
+choiced
+9 9 0 R 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+far: 
+9 10 1 R 1
+score = -10000
+not far
+9 10 0 R 1
+score = 0
+choiced
+9 10 0 R 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+9 11 1 U 1
+score = -10000
+far: 
+9 11 1 U 2
+score = 0
+choiced
+9 11 1 U 2
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+8 3 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+choiced
+8 3 0 D 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+6 4 0 R 1
+score = 0
+not far
+9 3 0 L 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+not far
+9 1 0 R 1
+score = 0
+not far
+9 1 0 D 1
+score = 0
+choiced
+9 3 0 L 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+6 4 0 R 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+not far
+9 1 0 R 1
+score = 10000
+not far
+9 1 0 D 1
+score = 0
+choiced
+9 1 0 R 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+6 4 0 R 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+choiced
+6 4 0 R 1
+far: 
+7 0 1 D 1
+score = -10000
+far: 
+7 0 1 D 2
+score = -10000
+far: 
+7 0 3 D 1
+score = -10000
+far: 
+7 0 3 D 2
+score = -10000
+far: 
+7 0 3 D 3
+score = -10000
+far: 
+7 0 2 D 1
+score = -10000
+far: 
+7 0 2 D 2
+score = -10000
+far: 
+7 0 2 D 3
+score = -10000
+not far
+7 0 0 D 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+6 5 0 R 1
+score = 0
+not far
+9 2 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+9 2 1 D 1
+score = -10000
+far: 
+9 2 1 D 2
+score = -10000
+choiced
+7 0 0 D 1
+far: 
+8 0 2 D 1
+score = -10000
+not far
+8 0 0 D 1
+score = 0
+far: 
+8 0 1 D 1
+score = -10000
+far: 
+8 0 3 D 1
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+6 5 0 R 1
+score = 0
+not far
+9 2 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+9 2 1 D 1
+score = -10000
+far: 
+9 2 1 D 2
+score = -10000
+choiced
+8 0 0 D 1
+far: 
+9 0 1 R 1
+score = -10000
+far: 
+9 0 1 R 2
+score = -10000
+far: 
+9 0 3 R 1
+score = -10000
+far: 
+9 0 3 R 2
+score = -10000
+far: 
+9 0 3 R 3
+score = -10000
+far: 
+9 0 2 R 1
+score = -10000
+far: 
+9 0 2 R 2
+score = -10000
+far: 
+9 0 2 R 3
+score = -10000
+not far
+9 0 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+6 5 0 R 1
+score = 0
+not far
+9 2 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+9 2 1 D 1
+score = -10000
+far: 
+9 2 1 D 2
+score = -10000
+choiced
+9 0 0 R 1
+far: 
+9 1 2 R 1
+score = -10000
+far: 
+9 1 2 R 2
+score = -10000
+not far
+9 1 0 R 1
+score = 0
+far: 
+9 1 1 R 1
+score = -10000
+far: 
+9 1 1 R 2
+score = -10000
+far: 
+9 1 3 R 1
+score = -10000
+far: 
+9 1 3 R 2
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+6 5 0 R 1
+score = 0
+not far
+9 2 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+9 2 1 D 1
+score = -10000
+far: 
+9 2 1 D 2
+score = -10000
+choiced
+9 1 0 R 1
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 5 R 1
+score = -10000
+far: 
+9 2 4 R 1
+score = -10000
+not far
+9 2 2 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+6 5 0 R 1
+score = 0
+not far
+9 2 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+9 2 1 D 1
+score = -10000
+far: 
+9 2 1 D 2
+score = -10000
+choiced
+6 5 0 R 1
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 5 R 1
+score = -10000
+far: 
+9 2 4 R 1
+score = -10000
+not far
+9 2 2 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+9 2 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+9 2 1 D 1
+score = -10000
+far: 
+9 2 1 D 2
+score = -10000
+choiced
+9 2 0 D 1
+far: 
+10 2 2 U 1
+score = -10000
+not far
+10 2 0 U 1
+score = 0
+far: 
+10 2 1 U 1
+score = -10000
+far: 
+10 2 3 U 1
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+6 6 0 D 1
+score = 0
+far: 
+10 2 5 D 1
+score = -10000
+not far
+9 11 0 U 1
+score = 0
+not far
+10 2 4 D 1
+score = 0
+not far
+11 1 0 R 1
+score = 0
+choiced
+10 2 4 D 1
+far: 
+10 2 2 U 1
+score = -10000
+not far
+10 2 0 U 1
+score = 0
+far: 
+10 2 1 U 1
+score = -10000
+far: 
+10 2 3 U 1
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+6 6 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+not far
+11 1 0 R 1
+score = 10000
+choiced
+11 1 0 R 1
+far: 
+10 2 2 U 1
+score = -10000
+not far
+10 2 0 U 1
+score = 0
+far: 
+10 2 1 U 1
+score = -10000
+far: 
+10 2 3 U 1
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+6 6 0 D 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+choiced
+6 6 0 D 1
+far: 
+10 2 2 U 1
+score = -10000
+not far
+10 2 0 U 1
+score = 0
+far: 
+10 2 1 U 1
+score = -10000
+far: 
+10 2 3 U 1
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+7 6 0 R 1
+score = 0
+not far
+11 2 0 R 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+11 2 1 R 1
+score = -10000
+far: 
+11 2 1 R 2
+score = -10000
+far: 
+11 2 2 R 1
+score = -10000
+far: 
+11 2 2 R 2
+score = -10000
+far: 
+11 2 2 R 3
+score = -10000
+choiced
+7 6 0 R 1
+far: 
+10 2 2 U 1
+score = -10000
+not far
+10 2 0 U 1
+score = 0
+far: 
+10 2 1 U 1
+score = -10000
+far: 
+10 2 3 U 1
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+11 2 0 R 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+11 2 1 R 1
+score = -10000
+far: 
+11 2 1 R 2
+score = -10000
+far: 
+11 2 2 R 1
+score = -10000
+far: 
+11 2 2 R 2
+score = -10000
+far: 
+11 2 2 R 3
+score = -10000
+choiced
+10 2 0 U 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+11 2 0 R 1
+score = 0
+not far
+9 11 0 U 1
+score = 0
+far: 
+11 2 1 R 1
+score = -10000
+far: 
+11 2 1 R 2
+score = -10000
+far: 
+11 2 2 R 1
+score = -10000
+far: 
+11 2 2 R 2
+score = -10000
+far: 
+11 2 2 R 3
+score = -10000
+choiced
+11 2 0 R 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+7 7 0 D 1
+score = 0
+far: 
+11 3 2 R 1
+score = -10000
+far: 
+11 3 2 R 2
+score = -10000
+far: 
+11 3 2 R 3
+score = -10000
+not far
+9 11 0 U 1
+score = 0
+far: 
+11 3 1 R 1
+score = -10000
+far: 
+11 3 1 R 2
+score = -10000
+not far
+11 3 0 R 1
+score = 0
+choiced
+7 7 0 D 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+far: 
+11 3 2 R 1
+score = -10000
+far: 
+11 3 2 R 2
+score = -10000
+far: 
+11 3 2 R 3
+score = -10000
+not far
+9 11 0 U 1
+score = 0
+far: 
+11 3 1 R 1
+score = -10000
+far: 
+11 3 1 R 2
+score = -10000
+not far
+11 3 0 R 1
+score = 0
+choiced
+9 11 0 U 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+far: 
+11 3 2 R 1
+score = -10000
+far: 
+11 3 2 R 2
+score = -10000
+far: 
+11 3 2 R 3
+score = -10000
+not far
+8 11 0 U 1
+score = 10000
+far: 
+11 3 1 R 1
+score = -10000
+far: 
+11 3 1 R 2
+score = -10000
+not far
+11 3 0 R 1
+score = 0
+choiced
+8 11 0 U 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+7 11 0 L 1
+score = 0
+not far
+7 11 0 U 1
+score = 0
+far: 
+11 3 2 R 1
+score = -10000
+far: 
+11 3 2 R 2
+score = -10000
+far: 
+11 3 2 R 3
+score = -10000
+far: 
+7 11 2 L 1
+score = -10000
+far: 
+7 11 2 U 1
+score = -10000
+far: 
+7 11 2 U 2
+score = -10000
+far: 
+7 11 2 U 3
+score = -10000
+far: 
+11 3 1 R 1
+score = -10000
+far: 
+11 3 1 R 2
+score = -10000
+far: 
+7 11 1 L 1
+score = -10000
+far: 
+7 11 1 U 1
+score = -10000
+far: 
+7 11 1 U 2
+score = -10000
+not far
+11 3 0 R 1
+score = 0
+choiced
+7 11 0 L 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+far: 
+7 10 2 U 1
+score = -10000
+far: 
+7 10 2 U 2
+score = 0
+far: 
+7 10 2 U 3
+score = -10000
+far: 
+11 3 2 R 1
+score = -10000
+far: 
+11 3 2 R 2
+score = -10000
+far: 
+11 3 2 R 3
+score = -10000
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 3 1 R 1
+score = -10000
+far: 
+11 3 1 R 2
+score = -10000
+far: 
+7 10 1 U 1
+score = -10000
+far: 
+7 10 1 U 2
+score = 0
+not far
+11 3 0 R 1
+score = 0
+choiced
+7 10 2 U 2
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+far: 
+11 3 2 R 1
+score = -10000
+far: 
+11 3 2 R 2
+score = -10000
+far: 
+11 3 2 R 3
+score = -10000
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 3 1 R 1
+score = -10000
+far: 
+11 3 1 R 2
+score = -10000
+far: 
+7 10 1 U 1
+score = -10000
+far: 
+7 10 1 U 2
+score = 0
+not far
+11 3 0 R 1
+score = 0
+choiced
+7 10 1 U 2
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+far: 
+11 3 2 R 1
+score = -10000
+far: 
+11 3 2 R 2
+score = -10000
+far: 
+11 3 2 R 3
+score = -10000
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 3 1 R 1
+score = -10000
+far: 
+11 3 1 R 2
+score = -10000
+not far
+11 3 0 R 1
+score = 0
+choiced
+11 3 0 R 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+8 7 0 R 1
+score = 0
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+8 7 0 R 1
+far: 
+9 2 1 R 1
+score = -10000
+far: 
+9 2 3 R 1
+score = -10000
+far: 
+9 2 2 R 1
+score = -10000
+not far
+9 2 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+9 2 0 R 1
+far: 
+9 3 2 U 1
+score = -10000
+far: 
+9 3 2 U 2
+score = -10000
+not far
+9 3 0 U 1
+score = 0
+far: 
+9 3 1 U 1
+score = -10000
+far: 
+9 3 1 U 2
+score = -10000
+far: 
+9 3 3 U 1
+score = -10000
+far: 
+9 3 3 U 2
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+9 3 0 U 1
+far: 
+8 3 1 U 1
+score = -10000
+far: 
+8 3 1 R 1
+score = -10000
+far: 
+8 3 3 U 1
+score = -10000
+far: 
+8 3 3 R 1
+score = -10000
+far: 
+8 3 2 U 1
+score = -10000
+far: 
+8 3 2 R 1
+score = -10000
+not far
+8 3 0 U 1
+score = 0
+not far
+8 3 0 R 1
+score = 0
+not far
+7 1 0 U 1
+score = 0
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+8 3 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+7 1 0 U 1
+score = 0
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+7 1 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+5 0 0 U 1
+score = 0
+not far
+5 0 0 R 1
+score = 10000
+not far
+6 1 0 U 1
+score = 10000
+far: 
+5 0 1 U 1
+score = -10000
+far: 
+5 0 1 U 2
+score = -10000
+far: 
+5 0 1 R 1
+score = 0
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+5 0 0 R 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+6 1 0 U 1
+score = 10000
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+6 1 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+far: 
+5 1 2 U 1
+score = -10000
+far: 
+5 1 2 U 2
+score = -10000
+far: 
+5 1 2 U 3
+score = -10000
+not far
+5 1 0 U 1
+score = 0
+far: 
+5 1 3 U 1
+score = -10000
+far: 
+5 1 3 U 2
+score = -10000
+far: 
+5 1 3 U 3
+score = -10000
+far: 
+5 1 3 U 4
+score = -10000
+far: 
+5 1 1 U 1
+score = -10000
+far: 
+5 1 1 U 2
+score = -10000
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+5 1 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+far: 
+4 1 1 U 1
+score = -10000
+far: 
+4 1 1 U 2
+score = -10000
+far: 
+4 1 3 U 1
+score = -10000
+far: 
+4 1 3 U 2
+score = -10000
+far: 
+4 1 3 U 3
+score = -10000
+not far
+4 1 0 U 1
+score = 0
+far: 
+4 1 2 U 1
+score = -10000
+far: 
+4 1 2 U 2
+score = -10000
+far: 
+4 1 2 U 3
+score = -10000
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+4 1 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+far: 
+3 1 2 U 1
+score = -10000
+not far
+3 1 0 U 1
+score = 0
+far: 
+3 1 3 U 1
+score = -10000
+far: 
+3 1 1 U 1
+score = -10000
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+3 1 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+11 4 0 R 1
+score = 0
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 4 1 R 1
+score = -10000
+far: 
+11 4 1 R 2
+score = -10000
+far: 
+11 4 2 R 1
+score = -10000
+far: 
+11 4 2 R 2
+score = -10000
+far: 
+11 4 2 R 3
+score = -10000
+choiced
+11 4 0 R 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+8 8 0 D 1
+score = 0
+far: 
+11 5 2 R 1
+score = -10000
+far: 
+11 5 2 R 2
+score = -10000
+far: 
+11 5 2 R 3
+score = -10000
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 5 1 R 1
+score = -10000
+far: 
+11 5 1 R 2
+score = -10000
+not far
+11 5 0 R 1
+score = 0
+choiced
+8 8 0 D 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+far: 
+11 5 2 R 1
+score = -10000
+far: 
+11 5 2 R 2
+score = -10000
+far: 
+11 5 2 R 3
+score = -10000
+not far
+7 10 0 U 1
+score = 0
+far: 
+11 5 1 R 1
+score = -10000
+far: 
+11 5 1 R 2
+score = -10000
+not far
+11 5 0 R 1
+score = 0
+choiced
+7 10 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+far: 
+11 5 2 R 1
+score = -10000
+far: 
+11 5 2 R 2
+score = -10000
+far: 
+11 5 2 R 3
+score = -10000
+not far
+6 10 0 U 1
+score = 10000
+far: 
+11 5 1 R 1
+score = -10000
+far: 
+11 5 1 R 2
+score = -10000
+not far
+11 5 0 R 1
+score = 0
+choiced
+6 10 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+5 10 0 L 1
+score = 0
+not far
+5 10 0 U 1
+score = 0
+far: 
+5 10 1 L 1
+score = -10000
+far: 
+5 10 1 U 1
+score = -10000
+far: 
+11 5 2 R 1
+score = -10000
+far: 
+11 5 2 R 2
+score = -10000
+far: 
+11 5 2 R 3
+score = -10000
+far: 
+5 10 3 L 1
+score = -10000
+far: 
+5 10 3 U 1
+score = -10000
+far: 
+11 5 1 R 1
+score = -10000
+far: 
+11 5 1 R 2
+score = -10000
+far: 
+5 10 2 L 1
+score = -10000
+far: 
+5 10 2 U 1
+score = -10000
+not far
+11 5 0 R 1
+score = 0
+choiced
+5 10 0 U 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+far: 
+4 10 3 L 1
+score = -10000
+far: 
+4 10 2 L 1
+score = -10000
+far: 
+11 5 2 R 1
+score = -10000
+far: 
+11 5 2 R 2
+score = -10000
+far: 
+11 5 2 R 3
+score = -10000
+not far
+4 10 0 L 1
+score = 0
+far: 
+11 5 1 R 1
+score = -10000
+far: 
+11 5 1 R 2
+score = -10000
+far: 
+4 10 1 L 1
+score = -10000
+not far
+11 5 0 R 1
+score = 0
+choiced
+4 10 0 L 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+far: 
+11 5 2 R 1
+score = -10000
+far: 
+11 5 2 R 2
+score = -10000
+far: 
+11 5 2 R 3
+score = -10000
+far: 
+11 5 1 R 1
+score = -10000
+far: 
+11 5 1 R 2
+score = -10000
+not far
+11 5 0 R 1
+score = 0
+choiced
+11 5 0 R 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+9 8 0 R 1
+score = 0
+not far
+11 6 0 R 1
+score = 0
+far: 
+11 6 1 R 1
+score = -10000
+far: 
+11 6 1 R 2
+score = -10000
+far: 
+11 6 2 R 1
+score = -10000
+far: 
+11 6 2 R 2
+score = -10000
+far: 
+11 6 2 R 3
+score = -10000
+choiced
+9 8 0 R 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+11 6 0 R 1
+score = 0
+far: 
+11 6 1 R 1
+score = -10000
+far: 
+11 6 1 R 2
+score = -10000
+far: 
+11 6 2 R 1
+score = -10000
+far: 
+11 6 2 R 2
+score = -10000
+far: 
+11 6 2 R 3
+score = -10000
+choiced
+11 6 0 R 1
+far: 
+7 3 2 R 1
+score = -10000
+not far
+7 3 0 R 1
+score = 0
+far: 
+7 3 1 R 1
+score = -10000
+far: 
+7 3 3 R 1
+score = -10000
+not far
+9 9 0 D 1
+score = 0
+far: 
+11 7 2 R 1
+score = -10000
+far: 
+11 7 2 R 2
+score = -10000
+far: 
+11 7 2 R 3
+score = -10000
+far: 
+11 7 1 R 1
+score = -10000
+far: 
+11 7 1 R 2
+score = -10000
+not far
+11 7 0 R 1
+score = 0
+choiced
+7 3 0 R 1
+far: 
+7 4 1 U 1
+score = -10000
+far: 
+7 4 3 U 1
+score = -10000
+far: 
+7 4 2 U 1
+score = -10000
+not far
+7 4 0 U 1
+score = 0
+not far
+9 9 0 D 1
+score = 0
+far: 
+11 7 2 R 1
+score = -10000
+far: 
+11 7 2 R 2
+score = -10000
+far: 
+11 7 2 R 3
+score = -10000
+far: 
+11 7 1 R 1
+score = -10000
+far: 
+11 7 1 R 2
+score = -10000
+not far
+11 7 0 R 1
+score = 0
+choiced
+7 4 0 U 1
+not far
+9 9 0 D 1
+score = 0
+far: 
+11 7 2 R 1
+score = -10000
+far: 
+11 7 2 R 2
+score = -10000
+far: 
+11 7 2 R 3
+score = -10000
+far: 
+11 7 1 R 1
+score = -10000
+far: 
+11 7 1 R 2
+score = -10000
+not far
+11 7 0 R 1
+score = 0
+choiced
+9 9 0 D 1
+far: 
+11 7 2 R 1
+score = -10000
+far: 
+11 7 2 R 2
+score = -10000
+far: 
+11 7 2 R 3
+score = -10000
+far: 
+11 7 1 R 1
+score = -10000
+far: 
+11 7 1 R 2
+score = -10000
+not far
+11 7 0 R 1
+score = 0
+choiced
+11 7 0 R 1
+not far
+10 9 0 D 1
+score = 0
+not far
+11 8 0 R 1
+score = 0
+far: 
+11 8 1 R 1
+score = -10000
+far: 
+11 8 2 R 1
+score = -10000
+choiced
+10 9 0 D 1
+not far
+11 8 0 R 1
+score = 0
+far: 
+11 8 1 R 1
+score = -10000
+far: 
+11 8 2 R 1
+score = -10000
+choiced
+11 8 0 R 1
